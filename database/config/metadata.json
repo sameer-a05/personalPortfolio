@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "name": "Iman",
+    "title": "Iman Musa - Frontend Developer",
+    "description": "Hey I'm Iman! I'm a Frontend Developer with a strong passion for building web applications with great user experiences.",
+    "timeZone": "Australia/Sydney",
+    "locale": "en-US"
+  },
+  "personal": {
+    "name": "Iman",
+    "surname": "Musa",
+    "role": "Frontend Developer",
+    "email": "imanwmusa@gmail.com",
+    "phone": "+123456789",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AUS",
+    "resumeURL": "https://drive.google.com/file/d/13kjKTpYiP0EvixD43HjRszJOnfE9Gh8P/view?usp=sharing"
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com",
+    "github": "https://github.com",
+    "resume": "https://drive.google.com/file/d/13kjKTpYiP0EvixD43HjRszJOnfE9Gh8P/view?usp=sharing"
+  },
+  "content": {
+    "verse": "Copyright © 2024 Iman Musa"
+  }
+}

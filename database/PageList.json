@@ -1,0 +1,47 @@
+{
+  "about": {
+    "isActive":  true,
+    "showOnNavigation": true,
+    "showOnFooter": true,
+    "title": "About",
+    "description": "I design & develop modern and accessible web interfaces.",
+    "image": "",
+    "link": "#about"
+  },
+  "skills": {
+    "isActive": true,
+    "showOnNavigation":  true,
+    "showOnFooter":  true,
+    "title": "Skills",
+    "description": "Check out the things I'm good at, from building websites to design and more.",
+    "image": "",
+    "link": "#skills"
+  },
+  "works": {
+    "isActive": true,
+    "showOnNavigation":  true,
+    "showOnFooter":  true,
+    "title": "Works",
+    "description": "Discover a curated portfolio of projects showcasing my expertise and the achieved results.",
+    "image": "",
+    "link": "#works"
+  },
+  "experience": {
+    "isActive": true,
+    "showOnNavigation":  true,
+    "showOnFooter":  true,
+    "title": "Experience",
+    "description": "See my work history and what I've achieved in a quick and easy resume.",
+    "image": "",
+    "link": "#experience"
+  },
+  "contact": {
+    "isActive":  true,
+    "showOnNavigation":  true,
+    "showOnFooter":  false,
+    "title": "Contact",
+    "description": "Now it’s your turn to say hi. I hope to hear from you!",
+    "image": "",
+    "link": "#footer"
+  }
+}

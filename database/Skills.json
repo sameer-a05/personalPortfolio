@@ -1,0 +1,72 @@
+[
+  {
+    "icon": "IconHTML",
+    "image": "/icon/icon-html.svg",
+    "title": "HTML",
+    "subtitle": "Semantic Markup",
+    "description": "Beyond markup, HTML is crucial for an inclusive web. I structure content carefully for universal accessibility."
+  },
+  {
+    "icon": "IconCSS",
+    "image": "/icon/icon-css.svg",
+    "title": "CSS",
+    "subtitle": "Animations, Sass, Tailwind",
+    "description": "I prioritize pixel perfection, paying close attention to details for visually polished and precisely aligned designs, ensuring a seamless user experience."
+  },
+  {
+    "icon": "IconJS",
+    "image": "/icon/icon-js.svg",
+    "title": "JavaScript",
+    "subtitle": "Client-side Programming",
+    "description": "I bring websites to life with JavaScript, adding interactive features and optimizing performance with clean and efficient code."
+  },
+  {
+    "icon": "IconTS",
+    "image": "/icon/icon-ts.svg",
+    "title": "TypeScript",
+    "subtitle": "Type Safety",
+    "description": "TypeScript, a superset of JavaScript that adds static typing abilities to the language."
+  },
+  {
+    "icon": "IconReact",
+    "image": "/icon/icon-react.svg",
+    "title": "React JS",
+    "subtitle": "JavaScript Library",
+    "description": "Using React, I craft scalable user interfaces with components, state management, and virtual DOM manipulation for seamless web applications."
+  },
+  {
+    "icon": "IconRedux",
+    "image": "/icon/icon-redux.svg",
+    "title": "Redux",
+    "subtitle": "Context API, Redux Toolkit",
+    "description": "Predictable state container for JavaScript apps, often used with React."
+  },
+  {
+    "icon": "IconNextjs",
+    "image": "/icon/icon-nextjs.svg",
+    "title": "Next.JS",
+    "subtitle": "React Framework",
+    "description": "React framework for building full-stack web applications.React framework for building full-stack web applications."
+  },
+  {
+    "icon": "IconTailwind",
+    "image": "/icon/icon-tailwind.svg",
+    "title": "Tailwind",
+    "subtitle": "CSS Framework",
+    "description": "A utility-first CSS framework for rapid UI development."
+  },
+  {
+    "icon": "IconFirebase",
+    "image": "/icon/icon-firebase.svg",
+    "title": "Firebase",
+    "subtitle": "Database Management, Authentication",
+    "description": "Platform developed by Google for creating mobile and web applications."
+  },
+  {
+    "icon": "IconWebpack",
+    "image": "/icon/icon-webpack.svg",
+    "title": "Development Env.",
+    "subtitle": "Webpack",
+    "description": "I use tools like Webpack, Vite, NPM, Yarn to streamline workflows, automating development for efficiency."
+  }
+]

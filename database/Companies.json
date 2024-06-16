@@ -1,0 +1,23 @@
+[
+  {
+    "position": "Frontend Developer",
+    "company": "Aurora Web Studio",
+    "duration": "Oct 2023 - Present",
+    "responsibilities": [
+      "Developed an internal troubleshooting tool with React and Firebase, boosting the support team’s efficiency by over 40%.",
+      "Enhanced client’s customer conversion by 30% by redesigning the checkout flow, migrating the database to Firebase, and developing the frontend with Next.js and Typescript.",
+      "Partnered with the COO to streamline client communication processes, resulting in a 30% reduction in client meetings and a 70% increase in team productivity by implementing efficient workflow solutions.",
+      "Developed a custom React hook to debounce search inputs, significantly reducing unnecessary RESTful API requests by 66%, leading to improved performance and efficiency on client SaaS platforms."
+    ]
+  },
+  {
+    "position": "Freelance Frontend Developer",
+    "company": "Self Employed",
+    "duration": "Apr 2023 – Sep 2023",
+    "responsibilities": [
+      "Delivered 5 professional websites using HTML5, CSS3 (+ SCSS, BEM), JavaScript, and React best practices, enhancing client satisfaction by adhering to industry standards.",
+      "Improved website performance by optimising code, implementing caching, and lazy loading images and components, reducing load times by an average of 32%.",
+      "Enhanced websites with SEO, responsive design, multi-platform, and hosting support, ensuring accessibility across all browsers and devices, increasing traffic by an average of 25%."
+    ]
+  }
+]
