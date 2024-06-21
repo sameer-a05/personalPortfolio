@@ -19,7 +19,7 @@ export default function ExperienceBlock() {
         </Title>
       </header>
       {Companies.map((company, index) => (
-        <Item {...company}/>
+        <Item {...company} key={index}/>
       ))}
     </section>
   );

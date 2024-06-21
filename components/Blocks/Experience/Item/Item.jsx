@@ -22,8 +22,8 @@ export default function Item({
         </div>
       </div>
       <ul className={styles.itemList}>
-        {responsibilities.map((responsibility) => (
-          <li>
+        {responsibilities.map((responsibility, index) => (
+          <li key={index}>
             <TextReveal>
             {responsibility}
             </TextReveal>
