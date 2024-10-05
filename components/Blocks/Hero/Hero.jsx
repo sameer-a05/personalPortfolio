@@ -131,7 +131,7 @@ export default function Hero() {
                     <div className={styles.inner}>
                         <div className={styles.title}>
                             <h1 ref={textRef}>
-                                Iman Musa <br/> Frontend Developer.
+                                Mahran Hassan <br/> Frontend Developer.
                             </h1>
                             <p ref={descRef}>{commonConfig.metadata.description}</p>
                         </div>
