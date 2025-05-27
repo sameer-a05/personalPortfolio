@@ -1,28 +1,28 @@
 {
   "metadata": {
-    "name": "Mahran",
-    "title": "Mahran Hssan - Frontend Developer",
-    "description": "Hey I'm Mahran! I'm a Frontend Developer with a strong passion for building web applications with great user experiences.",
-    "timeZone": "Europe/London",
+    "name": "Salman",
+    "title": "Salman Awal - Frontend Developer",
+    "description": "Hey I'm Salman! I'm a Frontend Developer with a strong passion for building web applications with great user experiences.",
+    "timeZone": "Australia/Melbourne",
     "locale": "en-US"
   },
   "personal": {
-    "name": "Iman",
-    "surname": "Musa",
+    "name": "Salman",
+    "surname": "Awal",
     "role": "Frontend Developer",
-    "email": "imanwmusa@gmail.com",
-    "phone": "+123456789",
-    "city": "Sunderland",
-    "state": "UK",
-    "country": "UK",
+    "email": "me@salmanawal.com",
+    "phone": "+61477588043",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AUS",
     "resumeURL": "https://drive.google.com/file/d/13kjKTpYiP0EvixD43HjRszJOnfE9Gh8P/view?usp=sharing"
   },
   "social": {
-    "linkedin": "https://www.linkedin.com",
+    "linkedin": "https://www.linkedin.com/in/salman-awal",
     "github": "https://github.com",
     "resume": "https://drive.google.com/file/d/13kjKTpYiP0EvixD43HjRszJOnfE9Gh8P/view?usp=sharing"
   },
   "content": {
-    "verse": "Copyright © 2024 Mahran Hassan"
+    "verse": "Copyright © 2025 Salman Awal"
   }
 }
