@@ -28,6 +28,13 @@
     "description": "TypeScript, a superset of JavaScript that adds static typing abilities to the language."
   },
   {
+    "icon": "IconTS",
+    "image": "/icon/icon-java.svg",
+    "title": "Java",
+    "subtitle": "OOP, Backend Systems",
+    "description": "I use Java to build scalable backend services and applications, with a focus on object-oriented programming and platform independence."
+  },
+  {
     "icon": "IconReact",
     "image": "/icon/icon-react.svg",
     "title": "React JS",

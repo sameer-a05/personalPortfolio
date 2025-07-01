@@ -72,14 +72,15 @@ export default function BoldTitle() {
           <span className={styles.boldTitleLeft} ref={boldTitleLeft}>
             Creative
           </span>
-          <span>Frontend</span>
+          <span>Software</span>
           <span className={styles.boldTitleRight} ref={boldTitleRight}>
             Developer
           </span>
         </h2>
         <TextReveal className={`${styles.paragraph} ${styles.paragraphAlt}`}>
-        My mission is to continuously advance in web development, using my
-        growing expertise to drive societal progress through technology.
+          My mission is to continually grow as a software developer, leveraging
+          technology to build impactful solutions that contribute to progress
+          and improve lives.
         </TextReveal>
 
         <Blobs type={"v3"} classVariable={styles.blob} />
