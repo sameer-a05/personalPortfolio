@@ -1,23 +1,23 @@
 [
   {
-    "title": "Hollywood AI",
-    "image": "/reference/hollywoodai.png",
-    "description": "Developed and deployed a user-friendly platform for AI-powered film summaries, achieving a 95% satisfaction rate based on feedback on accuracy and readability, using Next.js. TypeScript, Firebase. Check it out at https://hollywoodai.vercel.app",
-    "date": "Feb 2024",
+    "title": "Rep Rise",
+    "image": "/reference/repRise.png",
+    "description": "Backend foundation project built with Spring Boot, focused on implementing JWT authentication integrated with PostgreSQL. Designed for scalability, security, and clean RESTful architecture using a controller–service–repository pattern. Ideal for kickstarting secure fullstack applications. Check it out at https://github.com/sameer-a05/repRise",
+    "date": "June 2025",
     "type": "Personal Project"
   },
   {
     "title": "Everest NFT Marketplace",
     "image": "/reference/everestnft.png",
-    "description": "Transformed a static single-page application into an interactive UI with animations, transitions, and carousels, utilising Axios for dynamic data representation. Employed Git for version control and collaboration. Check it out at https://remote-internship-finished.vercel.app",
+    "description": "Transformed a static single-page application into an interactive UI with animations, transitions, and carousels, utilising Axios for dynamic data representation. Employed Git for version control and collaboration. Check it out at https://blockchainnft.vercel.app/",
     "date": "Apr 2025",
     "type": "Frontend Developer Internship"
   },
   {
-    "title": "Social Media App",
-    "image": "/reference/socialmediaapp.png",
-    "description": "Developed a full-stack social media app with features like posts, post feeds, likes, modals, and authentication, using Firebase for database management. Check it out at https://social-media-app-pink.vercel.app",
-    "date": "Dec 2023",
+    "title": "AI fire predictor",
+    "image": "/reference/firePredictor.png",
+    "description": "Early-stage AI project aimed at developing a system to predict forest fires using environmental sensor data and satellite imagery. Currently in the planning phase, with a focus on building accurate, real-time models to help prevent wildfire spread and improve emergency response",
+    "date": "July 2025",
     "type": "Personal Project"
   }
 ]

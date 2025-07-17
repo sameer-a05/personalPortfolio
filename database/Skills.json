@@ -70,6 +70,20 @@
     "description": "Platform developed by Google for creating mobile and web applications."
   },
   {
+    "icon": "IconSpringboot",
+    "image": "/icon/icon-Springboot.svg",
+    "title": "Springboot",
+    "subtitle": "REST APIs, Backend Architecture, Authentication",
+    "description": "I use Spring Boot to build scalable backend systems with clean controller–service–repository architecture, integrating features like JWT authentication, PostgreSQL, and robust RESTful APIs."
+  },
+  {
+    "icon": "IconPython",
+    "image": "/icon/icon-python.svg",
+    "title": "Python",
+    "subtitle": "Automation, Data Processing, Machine Learning",
+    "description": "I use Python for scripting, automation, and building backend systems—leveraging libraries like Pandas, Flask, and TensorFlow to solve real-world problems efficiently"
+  },
+  {
     "icon": "IconWebpack",
     "image": "/icon/icon-webpack.svg",
     "title": "Development Env.",
